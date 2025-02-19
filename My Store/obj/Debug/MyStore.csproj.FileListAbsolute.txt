@@ -1,0 +1,17 @@
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\mystoresystem.mdf
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\mystoresystem_log.ldf
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\My Store.exe.config
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\My Store.exe
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\My Store.pdb
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\bin\Debug\Guna.UI2.dll
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\MyStore.csproj.AssemblyReference.cache
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My_Store.ProductForm.resources
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My_Store.Form1.resources
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My_Store.CategoryForm.resources
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My_Store.Properties.Resources.resources
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My_Store.SellingForm.resources
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\MyStore.csproj.Up2Date
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My Store.exe
+C:\Users\Cs-Store\Desktop\MiniStore\My Store\obj\Debug\My Store.pdb
