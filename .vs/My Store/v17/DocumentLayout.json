@@ -1,25 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\",
+  "WorkspaceRootPath": "E:\\OOAD\\S2 Project\\MiniStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|c:\\users\\cs-store\\desktop\\ministore\\my store\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|e:\\ooad\\s2 project\\ministore\\my store\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|c:\\users\\cs-store\\desktop\\ministore\\my store\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|e:\\ooad\\s2 project\\ministore\\my store\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CS_STORE_DESKTOP_MINISTORE_MY_STORE_MYSTORESYSTEM.MDF/True/SqlTable/dbo.Bill.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|e:\\ooad\\s2 project\\ministore\\my store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|C:\\Users\\Cs-Store\\Desktop\\MiniStore\\my store\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|c:\\users\\cs-store\\desktop\\ministore\\my store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|E:\\OOAD\\S2 Project\\MiniStore\\my store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7CA59B-5488-4BDB-90FD-3E51486A6B61}|My Store\\MyStore.csproj|solutionrelative:my store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,68 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Bill [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CS_STORE_DESKTOP_MINISTORE_MY_STORE_MYSTORESYSTEM.MDF/True/SqlTable/dbo.Bill.sql",
-              "ToolTip": "dbo.Bill [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-20T02:08:46.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SellingForm.cs",
-              "DocumentMoniker": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\SellingForm.cs",
-              "RelativeDocumentMoniker": "My Store\\SellingForm.cs",
-              "ToolTip": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\SellingForm.cs",
-              "RelativeToolTip": "My Store\\SellingForm.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAewFQAAAAgAAAA",
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\ProductForm.cs",
+              "RelativeDocumentMoniker": "My Store\\ProductForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\ProductForm.cs [Design]",
+              "RelativeToolTip": "My Store\\ProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:07:28.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:15:21.473Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SellingForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\SellingForm.cs",
-              "RelativeDocumentMoniker": "My Store\\SellingForm.cs",
-              "ToolTip": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\SellingForm.cs [Design]",
-              "RelativeToolTip": "My Store\\SellingForm.cs [Design]",
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "My Store\\CategoryForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "My Store\\CategoryForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:07:12.803Z",
+              "WhenOpened": "2025-04-02T04:15:15.544Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DBConnect.cs",
-              "DocumentMoniker": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\DBConnect.cs",
-              "RelativeDocumentMoniker": "My Store\\DBConnect.cs",
-              "ToolTip": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\DBConnect.cs",
-              "RelativeToolTip": "My Store\\DBConnect.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\Form1.cs",
+              "RelativeDocumentMoniker": "My Store\\Form1.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\Form1.cs",
+              "RelativeToolTip": "My Store\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:10:33.752Z",
+              "WhenOpened": "2025-04-01T08:33:56.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\Program.cs",
-              "RelativeDocumentMoniker": "My Store\\Program.cs",
-              "ToolTip": "C:\\Users\\Cs-Store\\Desktop\\MiniStore\\My Store\\Program.cs",
-              "RelativeToolTip": "My Store\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\Form1.cs",
+              "RelativeDocumentMoniker": "My Store\\Form1.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\My Store\\Form1.cs [Design]",
+              "RelativeToolTip": "My Store\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:23:25.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T08:33:41.203Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
